@@ -1,7 +1,9 @@
-NIS;Nama Siswa;KKM;Bahasa Indonesia;Bahasa Inggris;IPA;Matematika;Nilai Akhir;Keterangan
-2023001;Ayu Dewi;75;76;68;80;77.5;73.375;Lulus
-2023002;M Kanze;75;74;70;75;70;70.25;Tidak Lulus
-2023003;Nur Khanza;75;88;80;85;90;85.74;Lulus
-2023004;Agung Riyadi;75;75;70;72.5;70;71.875;Tidak Lulus
-2023005;Ananda Eve;75;72.5;80;75;70;74.375;Tidak Lulus
-2023006;Tri Putra;75;80;75;77.5;80;78.125;Lulus
+ID;Nama Siswa;KKM;Bahasa Indonesia;Bahasa Inggris;IPA;Matematika;Nilai Akhir;Keterangan
+2023001;Ayu Dewi;75.0;76.0;68.0;80.0;77.5;73.375;Pass
+2023002;M Kanze;75.0;74.0;70.0;75.0;70.0;70.25;No Pass
+2023003;Nur Khanza;75.0;88.0;80.0;85.0;90.0;85.74;Pass
+2023004;Agung Riyadi;75.0;75.0;70.0;72.5;70.0;71.875;No Pass
+2023005;Ananda Eve;75.0;72.5;80.0;75.0;70.0;74.375;No Pass
+2023006;Tri Putra;75.0;80.0;75.0;77.5;80.0;78.125;Pass
+2023678;Nana;88.0;66.0;55.0;79.0;77.0;69.25;No Pass
+2023987;Chris;75.0;78.0;90.0;77.0;67.0;78.0;Pass
